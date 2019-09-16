@@ -1,0 +1,50 @@
+html{
+    font-size: 14px;
+    font-family: Helvetica;
+    }
+body{
+    width: 1300px;
+    margin: 0 auto;
+    line-height: 1,5;
+     }
+h1,h2{
+    color: rgb(158, 14, 14);
+  }
+
+#imgen-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
+
+blockquote{
+    margin: 20px;
+    padding: 20px;
+    border-left:5px solid rgb(158, 14, 14)
+   }
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  
+th,td{
+    width: 25%;
+    padding: 10px;
+    }
+  
+td,tr{
+    border-bottom: 1px solid #999;
+  }
+  
+.nombre{
+   color:rgb(0, 153, 255);
+  }
+
+#imgen-right{
+    float: right;
+}
+
+  
