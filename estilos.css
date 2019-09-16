@@ -4,7 +4,7 @@ html{
   }
 
 body{
-  width: 1300px;
+  width: 800px;
   margin: 0 auto;
   line-height: 1,5;
   color:rgb(73, 73, 73);
@@ -33,6 +33,7 @@ blockquote{
 table {
   table-layout: fixed;
   width: 100%;
+  margin: 0 auto;
   border-collapse: collapse;
   text-align: left;
   }
